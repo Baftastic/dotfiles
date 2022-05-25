@@ -1,0 +1,10 @@
+[2022-05-23 20:52:43.763] [main] [info] window#load: attempt to load window (id: 1)
+[2022-05-23 20:52:43.768] [main] [info] update#setState idle
+[2022-05-23 20:52:43.782] [main] [info] ExtensionHostStarterWorker created
+[2022-05-23 20:52:44.563] [main] [info] window#load: window reported ready (id: 1)
+[2022-05-23 20:52:44.755] [main] [info] Starting extension host with pid 20907 (fork() took 12 ms).
+[2022-05-23 20:52:44.755] [main] [info] ExtensionHostStarterWorker.start() took 13 ms.
+[2022-05-23 20:53:13.769] [main] [info] update#setState checking for updates
+[2022-05-23 20:53:13.803] [main] [info] update#setState idle
+[2022-05-23 20:54:37.393] [main] [info] Waiting for extension host with pid 20907 to exit.
+[2022-05-23 20:54:37.403] [main] [info] Extension host with pid 20907 exited with code: 0, signal: null.

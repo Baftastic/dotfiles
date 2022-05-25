@@ -1,0 +1,8 @@
+[2022-05-23 20:52:45.409] [sharedprocess] [info] Starting worker process with pid 20945 (type: fileWatcher, window: 1).
+[2022-05-23 20:53:11.879] [sharedprocess] [info] Getting Manifest... dracula-theme.theme-dracula
+[2022-05-23 20:53:11.884] [sharedprocess] [info] Installing extension: dracula-theme.theme-dracula
+[2022-05-23 20:53:13.609] [sharedprocess] [info] Downloaded extension: dracula-theme.theme-dracula /home/tom/.config/Code/CachedExtensionVSIXs/dracula-theme.theme-dracula-2.24.2
+[2022-05-23 20:53:13.652] [sharedprocess] [info] Extracted extension to /home/tom/.vscode/extensions/.4a41a65e-159c-4aa0-9be7-b3ca16e7c639: dracula-theme.theme-dracula
+[2022-05-23 20:53:13.656] [sharedprocess] [info] Renamed to /home/tom/.vscode/extensions/dracula-theme.theme-dracula-2.24.2
+[2022-05-23 20:53:13.658] [sharedprocess] [info] Extracting completed. dracula-theme.theme-dracula
+[2022-05-23 20:53:13.659] [sharedprocess] [info] Extension installed successfully: dracula-theme.theme-dracula
